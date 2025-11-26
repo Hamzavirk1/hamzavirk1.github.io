@@ -1,0 +1,22 @@
+{% capture footer_contents %}
+  {% if site.footer_text and site.footer_text != "" %}
+    {{ site.footer_text }}
+  {% endif %}
+  {% if site.impressum_path %}
+    <a href="{{ site.url }}{{ site.baseurl }}{{ site.impressum_path }}">Impressum</a>.
+  {% endif %}
+  {% if site.last_updated %}
+    Last updated: {{ 'now' | date: '%B %d, %Y' }}.
+  {% endif %}
+{% endcapture %}
+
+  <!-- Always use a non-fixed footer to avoid a fixed white bar at the bottom -->
+  <footer class="sticky-bottom mt-5" role="contentinfo">
+    {% if site.newsletter.enabled %}
+      {% include newsletter.liquid %}
+    {% endif %}
+
+    <div class="container">
+      {{ footer_contents }}
+    </div>
+  </footer>
