@@ -36,11 +36,11 @@ At Hofstra, I've had the fortunate opportunity to conduct research with faculty 
 
 Research interests:
 
-* Algorithmic Game Theory & Computational Social Science
-* Stochastic Processes & Mathematical Finance
-* Optimization Theory
-* Machine Learning Theory & Statistical Inference
-* Microeconomic Theory & Industrial Organization
-* Number Theory & Combinatorics
+- Algorithmic Game Theory & Computational Social Science
+- Stochastic Processes & Mathematical Finance
+- Optimization Theory
+- Machine Learning Theory & Statistical Inference
+- Microeconomic Theory & Industrial Organization
+- Number Theory & Combinatorics
 
 Feel free to reach out via email for collaboration or questions.

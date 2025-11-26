@@ -13,7 +13,9 @@ layout: default
           {% assign author_middle = '' %}
           {% assign author_last = 'Virk' %}
         {% endif %}
-        <span class="font-weight-bold">{{ author_first }}</span>{% if author_middle %} {{ author_middle }}{% endif %} {{ author_last }}
+        <span class="font-weight-bold">{{ author_first }}</span>
+        {%- if author_middle %} {{ author_middle }}{% endif %}
+        {{ author_last }}
       {% else %}
         {{ site.title }}
       {% endif %}

@@ -100,10 +100,7 @@
       "startDate": "2025-05-01",
       "endDate": "2025-08-01",
       "summary": "Applied topological data analysis to LLM attention for hallucination detection. Developed framework comparing response persistence diagrams to prompt-grounded ones using Wasserstein distance.",
-      "highlights": [
-        "Applied persistent homology to LLM attention mechanisms",
-        "Presented findings at ASPiRe Symposium"
-      ]
+      "highlights": ["Applied persistent homology to LLM attention mechanisms", "Presented findings at ASPiRe Symposium"]
     }
   ],
   "volunteer": [],
@@ -218,16 +215,7 @@
       "name": "Programming & Computation",
       "level": "Advanced",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Python",
-        "R",
-        "Stata",
-        "LaTeX",
-        "NumPy",
-        "pandas",
-        "scikit-learn",
-        "Matplotlib"
-      ]
+      "keywords": ["Python", "R", "Stata", "LaTeX", "NumPy", "pandas", "scikit-learn", "Matplotlib"]
     },
     {
       "name": "Statistical & Mathematical Methods",
@@ -278,11 +266,7 @@
     {
       "name": "Personal Interests",
       "icon": "fa-solid fa-heart",
-      "keywords": [
-        "Chess",
-        "Literature",
-        "Music"
-      ]
+      "keywords": ["Chess", "Literature", "Music"]
     }
   ],
   "references": [],
@@ -290,11 +274,7 @@
     {
       "name": "PerToDive for Hallucination Detection",
       "summary": "Applied persistent homology to LLM attention mechanisms, developing framework to detect hallucinations by comparing response persistence diagrams to prompt-grounded ones using Wasserstein distance.",
-      "highlights": [
-        "Topological Data Analysis",
-        "NLP Robustness",
-        "Presented at ASPiRe Symposium 2025"
-      ],
+      "highlights": ["Topological Data Analysis", "NLP Robustness", "Presented at ASPiRe Symposium 2025"],
       "startDate": "2025-05-01",
       "endDate": "2025-08-01",
       "url": ""

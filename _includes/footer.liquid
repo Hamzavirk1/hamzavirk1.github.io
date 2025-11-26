@@ -10,13 +10,13 @@
   {% endif %}
 {% endcapture %}
 
-  <!-- Always use a non-fixed footer to avoid a fixed white bar at the bottom -->
-  <footer class="sticky-bottom mt-5" role="contentinfo">
-    {% if site.newsletter.enabled %}
-      {% include newsletter.liquid %}
-    {% endif %}
+<!-- Always use a non-fixed footer to avoid a fixed white bar at the bottom -->
+<footer class="sticky-bottom mt-5" role="contentinfo">
+  {% if site.newsletter.enabled %}
+    {% include newsletter.liquid %}
+  {% endif %}
 
-    <div class="container">
-      {{ footer_contents }}
-    </div>
-  </footer>
+  <div class="container">
+    {{ footer_contents }}
+  </div>
+</footer>
