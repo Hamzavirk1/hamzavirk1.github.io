@@ -455,18 +455,11 @@ ninja.data = [{
           window.open("mailto:%68%76%69%72%6B%32@%70%72%69%64%65.%68%6F%66%73%74%72%61.%65%64%75", "_blank");
         },
       },{
-        id: 'social-inspire',
-        title: 'Inspire HEP',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://inspirehep.net/authors/1010907", "_blank");
-        },
-      },{
         id: 'social-linkedin',
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/hamzavirk", "_blank");
+          window.open("https://www.linkedin.com/in/hamza-virk-26856026a", "_blank");
         },
       },{
         id: 'social-rss',
@@ -480,7 +473,7 @@ ninja.data = [{
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://scholar.google.com/citations?user=qc6CJjYAAAAJ", "_blank");
+          window.open("https://scholar.google.com/citations?user=od7rY-0AAAAJ", "_blank");
         },
       },{
       id: 'light-theme',
