@@ -40,7 +40,7 @@ Research interests:
 - Stochastic Processes
 - Optimization Theory
 - Machine Learning Theory/StatML
-- Semiparametric efficiency theory
+- Semiparametric Efficiency Theory
 - Microeconomic Theory & Industrial Organization
 - Biostatistics & High-Dimensional Inference
 - Number Theory & Combinatorics
