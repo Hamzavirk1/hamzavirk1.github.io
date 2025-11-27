@@ -32,7 +32,7 @@ Hi, I'm Hamza.
 
 I'm a final-year mathematics student at Hofstra University. I'm broadly interested in using rigorous mathematics to model, understand, and predict behavior in complex, strategic, and uncertain environments. My research explores the theoretical foundations of decision-making, sitting at the intersection of algorithmic game theory, optimization, and stochastic processes.
 
-At Hofstra, I've had the fortunate opportunity to conduct research with faculty members in the Department of Mathematics. I am actively applying to PhD programs for Fall 2026 and am excited to find a new research home.
+At Hofstra, I've had the fortunate opportunity to conduct research with faculty members across multiple departments, including Mathematics and Economics. I am actively applying to PhD programs for Fall 2026 and am excited to find a new research home.
 
 Research interests:
 
