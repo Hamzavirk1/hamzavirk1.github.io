@@ -1,19 +1,4 @@
 {
-  "basics": {
-    "name": "Hamza Virk",
-    "label": "Undergraduate Researcher",
-    "image": "",
-    "email": "hvirk2@pride.hofstra.edu",
-    "phone": "",
-    "url": "https://hamzavirk.github.io/",
-    "summary": "Final-year mathematics student at Hofstra University interested in algorithmic game theory, mathematical finance, and computational methods at the intersection of economics, optimization, and machine learning theory.",
-    "location": {
-      "address": "",
-      "postalCode": "NY 11549",
-      "city": "Hempstead",
-      "countryCode": "US",
-      "region": "New York"
-    },
     "profiles": [
       {
         "network": "GitHub",
