@@ -8,6 +8,14 @@
 "Vision":
   color: "#009f36"
 
+"arXiv":
+  url: https://arxiv.org/abs/2511.05640/
+  color: "#b31b1b"
+
 "SSRN":
-  url: https://www.ssrn.com/
+  url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5371130
   color: "#1A70C1"
+
+"Draft":
+  url: 
+  color: "#84994F"
