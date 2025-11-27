@@ -30,16 +30,16 @@ latest_posts:
 
 Hi, I'm Hamza.
 
-I'm a senior mathematics student at Hofstra University. I'm broadly interested in using rigorous mathematics to model, understand, and predict behavior in complex, strategic, and uncertain environments. My research explores the theoretical foundations of decision-making, sitting at the intersection of algorithmic game theory, optimization, and stochastic processes.
+I'm a senior undergraduate student majoring in Mathematics at Hofstra University. I'm broadly interested in using rigorous mathematics to model, understand, and predict behavior in complex, strategic, and uncertain environments. My research explores the theoretical foundations of decision-making, sitting at the intersection of algorithmic game theory, optimization, stochastic processes and microeconomics.
 
-At Hofstra, I've had the fortunate opportunity to conduct research with faculty members across multiple departments, including Mathematics, Economics and Computer Science. I plan on starting my PhD studies in Fall 2026 and am excited to find a new research home.
+At Hofstra, I've been fortunate to conduct research with faculty members across multiple departments, including Mathematics, Economics and Computer Science. I plan on starting my PhD studies in Fall 2026.
 
 Research interests:
 
 - Algorithmic Game Theory & Computational Social Science
-- Stochastic Processes & Mathematical Finance
+- Stochastic Processes
 - Optimization Theory
-- Machine Learning Theory & Statistical Inference
+- Machine Learning Theory/StatML
 - Microeconomic Theory & Industrial Organization
 - Number Theory & Combinatorics
 
